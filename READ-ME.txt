@@ -1,0 +1,8 @@
+How to run this file:
+
+There are three versiosn of our project: one in the .py file type, one in the .ipynb file type, and one .txt file.
+It is best for you to run the .ipynb file in either Juypter Notebook or Google Colab, as this is the basis where we made our ML model.
+To test parameters, you can go to the section under the comment "# Hyperparameters" and can modify any of the hyper parameters to test our model.
+But please rerun everything in the code after you modify the hyperparameters, as it could produce different results if you run only a partial section of the code.
+I would like to thank Ousama Batais for creating the ML model and the many defined functions. He is the expert of this ML model and if you have any question,
+please refer to his contact information on the report.
